@@ -1,18 +1,16 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{Your project name} | devChallenges</h1>
+# Minimal Blog Card | devChallenges
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/minimal-blog-card" target="_blank">Minimal Blog Card</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for the <a href="https://devchallenges.io/challenge/minimal-blog-card" target="_blank">Minimal Blog Card</a> challenge from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://Lea225.github.io/minimal-blog-card/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/Lea225/minimal-blog-card">
       Solution
     </a>
     <span> | </span>
@@ -22,8 +20,6 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -32,55 +28,46 @@
 - [Built with](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
-<!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./thumbnail.png)
 
-<!--
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- What have you learned/improved?
-- Your wisdom? :)
--->
+This project is a responsive implementation of a minimal blog card design. The card displays an image, a category tag, a title, a short description, and the author's name. The solution focuses on clean HTML/CSS implementation with responsive design principles.
 
 ### What I learned
 
-<!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
+- Implemented responsive images using `srcset` for optimal display on different screen densities
+- Used CSS Flexbox for centering and layout management
+- Applied proper semantic HTML structure
+- Created responsive typography with relative units (rem)
+- Implemented a clean, minimalist design according to the challenge specifications
+- Used media queries to ensure proper display on mobile devices
+- Optimized image loading for different device resolutions
 
 ### Useful resources
 
-<!--
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
+- [MDN Web Docs - Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - Helped with implementing the srcset attribute
+- [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Excellent reference for Flexbox
+- [Google Fonts - Sora](https://fonts.google.com/specimen/Sora) - The font used in this project
 
-### Built with
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- Responsive design principles
+- Mobile-first workflow
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+- Responsive layout that works on mobile, tablet and desktop
+- Optimized image loading for different screen resolutions
+- Clean, minimalist design
+- Accessible HTML structure
+- Properly sized typography using relative units
+- Cross-browser compatible styling
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
+## Contact
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-## Author
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@Lea225](https://github.com/Lea225)
